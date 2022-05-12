@@ -1,4 +1,11 @@
-### Hi there 👋
+### （。＾▽＾）
+
+Holaaaa, me llamo Guada y tengo 20 años. <br>
+Estoy estudiando Analista en TICs en la UNLP y hago cursitos en Udemy que nunca termino. Trato de subir todas las practicas de la carrera asi cuando me las piden le paso este link y listo. <br>
+Me gustan los gatos y cocinar. 
+<div align="center">
+<img src="https://static.247tickets.com/o_1e8obkma0ufq618mdvo77139ln.gif" alt="Fan" align="center">
+</div>
 
 <!--
 **guadaevequoz/guadaevequoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
