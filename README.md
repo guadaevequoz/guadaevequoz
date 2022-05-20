@@ -6,7 +6,6 @@ Me gustan los gatitos y cuando no estoy sentada frente a la compu estoy cocinand
 <div align="center">
 <img width="250" src="https://static.247tickets.com/o_1e8obkma0ufq618mdvo77139ln.gif" alt="Fan" align="center">
 </div>
-![Visitor Count](https: //profile-counter.glitch.me/guadaevequoz/count.svg)
 
 <!--
 **guadaevequoz/guadaevequoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
