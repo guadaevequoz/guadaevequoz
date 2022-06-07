@@ -2,7 +2,7 @@
 Holaaaa, me llamo Guada y tengo 20 años. <br>
 Estudio 𝘼𝙣𝙖𝙡𝙞𝙨𝙩𝙖 𝙚𝙣 𝙏𝙄𝘾𝙨 en la UNLP y hago cursitos en Udemy que nunca termino. También estoy en la segunda etapa de Argentina Programa. <br>
 Trato de subir todas las practicas de la carrera asi cuando me las piden paso este link y listo. <br>
-Me gustan los gatitos y cuando no estoy sentada frente a la compu estoy cocinando cosas veganas (𝘴𝘰𝘺 𝘷𝘦𝘨𝘢𝘯𝘢 𝘯𝘪𝘷𝘦𝘭 5). 
+Me gustan los gatitos y cuando no estoy sentada frente a la compu estoy cocinando.
 
 <div align="center">
 <img width="250" src="https://static.247tickets.com/o_1e8obkma0ufq618mdvo77139ln.gif" alt="Fan" align="center">
