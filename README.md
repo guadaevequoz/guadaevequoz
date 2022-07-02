@@ -4,10 +4,6 @@ Estudio 𝘼𝙣𝙖𝙡𝙞𝙨𝙩𝙖 𝙚𝙣 𝙏𝙄𝘾𝙨 en la UNLP y 
 Trato de subir todas las practicas de la carrera asi cuando me las piden paso este link y listo. <br>
 Me gustan los gatitos y cuando no estoy sentada frente a la compu estoy cocinando.
 
-<div align="center">
-<img width="250" src="https://static.247tickets.com/o_1e8obkma0ufq618mdvo77139ln.gif" alt="Fan" align="center">
-</div>
-
 <!--
 **guadaevequoz/guadaevequoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
