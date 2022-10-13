@@ -1,6 +1,6 @@
 ### * ˚✧ ⌑⭑
 guada | 21 | buenos aires, argentina <br>
-estudio Analista en TICs y Lic. en Sistemas en la UNLP, estoy en la segunda etapa de Argentina Programa y hago cursitos en Udemy que nunca termino. <br>
+estudio Analista en TICs y Lic. en Sistemas en la UNLP y hago cursitos en Udemy que nunca termino. <br>
 trato de subir todas las practicas de la carrera asi cuando me las piden paso este link y listo <br>
 me gustan los gatitos, leer y cuando no estoy sentada frente a la compu estoy cocinando :) 
 
