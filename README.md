@@ -6,6 +6,8 @@ me gustan los gatitos, leer y cuando no estoy sentada frente a la compu estoy co
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/guadev) -->
 
 
