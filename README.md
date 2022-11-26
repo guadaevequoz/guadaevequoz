@@ -1,16 +1,15 @@
-### * ˚✧ ⌑⭑
-guada | 21 | buenos aires, argentina <br>
-estudio Analista en TICs y Lic. en Sistemas en la UNLP y hago cursitos en Udemy que nunca termino. <br>
+### * ˚✧ ⌑⭑ guada | 21 | <i>fullstack developer</i> <br>
+estudio analista en TICs y licenciatura en sistemas en la UNLP <br>
 trato de subir todas las practicas de la carrera asi cuando me las piden paso este link y listo <a href="https://cafecito.app/guadev">(☕ para contribuir con la causa!!)</a> <br>
 me gustan los gatitos, leer y cuando no estoy sentada frente a la compu estoy cocinando :) 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=demo&hide=Pascal&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=tokyonight&hide=prs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=compact&hide=Pascal&card_width=200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=compact&hide=Pascal&card_width=300&theme=tokyonight" />
 </a>
 
 <!-- [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/guadev) -->
