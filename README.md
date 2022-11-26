@@ -6,7 +6,7 @@ me gustan los gatitos, leer y cuando no estoy sentada frente a la compu estoy co
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=demo&hide=Pascal&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=tokyonight&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=tokyonight&hide=prs&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=compact&hide=Pascal&card_width=300&theme=tokyonight" />
