@@ -1,5 +1,5 @@
 ### * ˚✧ ⌑⭑ guada | 21 | <i>fullstack developer</i> <br>
-estudio analista en TICs y licenciatura en sistemas en la UNLP <br>
+soy analista en TICs y estudio licenciatura en sistemas en la UNLP <br>
 trato de subir todas las practicas de la carrera asi cuando me las piden paso este link y listo <a href="https://cafecito.app/guadev">(☕ para contribuir con la causa!!)</a> <br>
 me gustan los gatitos, leer y cuando no estoy sentada frente a la compu estoy cocinando :) 
 
