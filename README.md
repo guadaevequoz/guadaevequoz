@@ -1,5 +1,5 @@
 ### * ˚✧ ⌑⭑ guada | 21 | <i>fullstack developer</i> <br>
-soy analista en TICs y estudio licenciatura en sistemas en la UNLP <br>
+soy analista en TICs y estudio licenciatura en sistemas en la UNLP :) 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=demo&hide=Pascal&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)-->
 
