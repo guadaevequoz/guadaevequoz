@@ -1,4 +1,4 @@
-### guada, 22, infj 👩🏻‍💻🍃📚 <br>
+### guada, 23, infj 👩🏻‍💻🍃📚 <br>
 soy analista en TIC, trabajo como desarrolladora y estudio licenciatura en sistemas 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guadaevequoz&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guadaevequoz&layout=demo&hide=Pascal&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)-->
